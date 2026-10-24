@@ -1,0 +1,7 @@
+{
+  "login_qq": "",
+  "sources": [
+    {"id": "wall", "name": "来源一", "qzone_id": ""},
+    {"id": "rights", "name": "来源二", "qzone_id": ""}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "source_id": "rights",
+  "posts": [
+    {
+      "external_id": "fictional-found-001",
+      "published_at": "2026-10-24T18:00:00+08:00",
+      "text": "【虚构测试样本】【失物招领】在快递站和22栋之间发现一张校园卡，姓名为测试同学，放在22栋置物架。",
+      "images": [],
+      "publisher": "100002",
+      "content_complete": true
+    },
+    {
+      "external_id": "fictional-proxy-002",
+      "published_at": "2026-10-24T18:10:00+08:00",
+      "text": "【虚构测试样本】帮同学找一串钥匙，昨天落在食堂，联系我。",
+      "images": [],
+      "content_complete": true
+    }
+  ]
+}
